@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"../components/Registry/ThreeDCoverFlow.jsx -> react-spring-3d-carousel":{id:4368,files:["static/chunks/956b76c9.5fc320f8fdddedc5.js"]}};
